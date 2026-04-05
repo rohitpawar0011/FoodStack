@@ -2,7 +2,7 @@
 
 A modern, full-stack food ordering and delivery web application that provides a seamless experience for customers to explore restaurants, manage their cart, and place real-time orders with ease. The system features a comprehensive admin panel for restaurant management, menu updates, order tracking, and user management.
 
-[![Deployment](https://img.shields.io/badge/Frontend-Render-46E3B7?style=flat&logo=render)](https://food-app-frontend-3vxz.onrender.com)
+[![Deployment](https://img.shields.io/badge/Frontend-Render-46E3B7?style=flat&logo=render)](https://foodstack-1-11tt.onrender.com)
 [![Node.js](https://img.shields.io/badge/Node.js-20.15.0-339933?style=flat&logo=node.js)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=flat&logo=react)](https://reactjs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=flat&logo=mongodb)](https://www.mongodb.com/)
@@ -11,7 +11,7 @@ A modern, full-stack food ordering and delivery web application that provides a 
 
 Food-App is a comprehensive food ordering and delivery platform that bridges customers with restaurants through an intuitive web interface. It supports the complete food ordering lifecycle from browsing menus to real-time order tracking and delivery.
 
-**Live Demo:** [food-app-frontend-3vxz.onrender.com](https://food-app-frontend-3vxz.onrender.com)
+**Live Demo:** [https://foodstack-1-11tt.onrender.com](https://foodstack-1-11tt.onrender.com)
 
 ## 🚀 Key Features
 
@@ -188,7 +188,7 @@ Food-App/
    
    Create a `.env` file in the frontend directory (if needed):
    ```env
-   VITE_API_URL=http://localhost:4000
+   VITE_API_URL=http://localhost:5000
    ```
    
    Start the frontend development server:
@@ -238,7 +238,7 @@ Food-App/
 ## 🌐 Deployment
 
 ### Frontend Deployment (Render)
-The frontend is hosted on Render at: **[food-app-frontend-3vxz.onrender.com](https://food-app-frontend-3vxz.onrender.com)**
+The frontend is hosted on Render at: **[https://foodstack-1-11tt.onrender.com](https://foodstack-1-11tt.onrender.com)**
 
 **Deployment Steps:**
 1. Connect your GitHub repository to Render
@@ -286,7 +286,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Sagar Kharat**
+**rohit pawar**
 - GitHub: [@rohitpawar0011](https://github.com/rohitpawar0011)
 
 ## 🙏 Acknowledgments
