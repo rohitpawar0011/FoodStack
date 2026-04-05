@@ -157,8 +157,8 @@ Food-App/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/SagarKharat94440/Food-App.git
-   cd Food-App
+   git clone https://github.com/rohitpawar0011/FoodStack.git
+   cd FoodStack
    ```
 
 2. **Setup Backend**
@@ -169,7 +169,7 @@ Food-App/
    
    Create a `.env` file in the backend directory:
    ```env
-   PORT=4000
+   PORT=5000
    MONGODB_URI=your_mongodb_connection_string
    JWT_SECRET=your_jwt_secret_key
    STRIPE_SECRET_KEY=your_stripe_secret_key
@@ -211,7 +211,7 @@ Food-App/
 
 - **Frontend**: http://localhost:5173 (default Vite port)
 - **Admin Panel**: http://localhost:5174 (or next available port)
-- **Backend API**: http://localhost:4000
+- **Backend API**: http://localhost:5000
 
 ## 📡 API Endpoints
 
@@ -287,7 +287,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Sagar Kharat**
-- GitHub: [@SagarKharat94440](https://github.com/SagarKharat94440)
+- GitHub: [@rohitpawar0011](https://github.com/rohitpawar0011)
 
 ## 🙏 Acknowledgments
 
